@@ -1,7 +1,8 @@
 *
 !*.*
 !*/
-semana04/
 Cronograma de ITP - 2022.2.gsheet
-semana03/prova/
 .DS_Store
+.gitignore
+semana03/prova/
+semana04/

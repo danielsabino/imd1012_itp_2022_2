@@ -7,4 +7,5 @@
 
 
 !semana03/
-!semana03/lista/*.c
+!semana03/*/
+!semana03/*/*.c

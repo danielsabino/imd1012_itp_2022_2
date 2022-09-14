@@ -1,11 +1,3 @@
 *
-!.gitignore
-
-!semana02/
-!semana02/*/
-!semana02/*/*.c
-
-
-!semana03/
-!semana03/*/
-!semana03/*/*.c
+!*.c
+semana04/prova/

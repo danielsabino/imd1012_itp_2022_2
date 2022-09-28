@@ -7,3 +7,4 @@ Repositório com códigos da turma 02 de Introdução às Técnicas de Programa�
 - Semana 03: Estruturas de repetição
 - Semana 04: Funções
 - Semana 05: Vetores
+- Semana 06: Matrizes
